@@ -33,7 +33,7 @@
 
 ## Contacto
 
-¡No dudes en contactarme! Puedes encontrarme en [LinkedIn]([https://www.linkedin.com/in/tu-nombre/](https://www.linkedin.com/in/luis-alberto-jaime-barbosa-6709ab239/)) o [Twitter]([https://twitter.com/tu_usuario](https://twitter.com/MrLuisJaimes)).
+¡No dudes en contactarme! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/luis-alberto-jaime-barbosa-6709ab239/) o [Twitter](https://twitter.com/MrLuisJaimes).
 
 ¡Gracias por visitar mi perfil! 😊
 
