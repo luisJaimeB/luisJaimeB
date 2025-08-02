@@ -1,53 +1,60 @@
-# Bienvenido/a a mi perfil de GitHub 👋
+# 👋 ¡Hola! Soy Luis Jaime
 
-¡Hola! Soy Luis Jaime, un ingeniero de sistemas apasionado por el desarrollo de software y la integración de sistemas. Actualmente trabajo como analista de integración en [Evertec](https://www.evertecinc.com/), donde tengo la oportunidad de aplicar y ampliar mis conocimientos en diferentes tecnologías.
+Ingeniero de Sistemas con enfoque en desarrollo web e integración de sistemas. Actualmente me desempeño como **Analista de Integración** en [Evertec](https://www.evertecinc.com/), donde colaboro en soluciones tecnológicas que conectan plataformas de forma eficiente y segura.
 
-## Acerca de mí
+---
 
-- 👨‍💻 Ingeniero de sistemas con experiencia en desarrollo de software.
-- 🌱 Siempre estoy aprendiendo y explorando nuevas tecnologías.
-- 💼 Actualmente trabajando como analista de integración en Evertec.
-- ⚡ Apasionado por el desarrollo web y las soluciones de integración.
+## 🧑‍💻 Sobre mí
 
-## Habilidades
+- 🎓 Ingeniero de Sistemas con sólida base en desarrollo de software.
+- 🔄 Especial interés en la integración de sistemas y arquitecturas escalables.
+- 🚀 Apasionado por aprender nuevas tecnologías y mejorar continuamente.
+- 💼 Actualmente enfocado en la implementación de soluciones de integración en entornos de alta demanda.
 
-### Lenguajes de Programación
+---
 
+## 🛠️ Tecnologías y Herramientas
+
+### Lenguajes de programación
 - PHP
-- Javascript
+- JavaScript
 
-### Frameworks y Bibliotecas
-
+### Frameworks y bibliotecas
 - Laravel
 - Vue.js
 
-### Tecnologías Frontend
+### Tecnologías frontend
+- HTML5
+- CSS3
+- Tailwind CSS / Bootstrap
 
-- HTML
-- CSS
+### Otras habilidades
+- Git & GitHub
+- MySQL
+- APIs RESTful
+- Docker (en proceso de profundización)
 
-## Proyectos Destacados
+---
 
-- **Proyecto A:** Breve descripción del proyecto y tecnologías utilizadas.
-- **Proyecto B:** Breve descripción del proyecto y tecnologías utilizadas.
+## 🧩 Proyectos destacados
 
-## Contacto
+- **Payment Bridge**  
+  Solución diseñada para facilitar la integración con múltiples pasarelas de pago, permitiendo a los usuarios conectarse sin necesidad de desarrollar integraciones personalizadas.  
+  Se enfoca en ofrecer una interfaz limpia, procesos simplificados y una arquitectura extensible para adaptarse a distintas plataformas. Ideal para equipos que buscan rapidez y confiabilidad en su conexión con métodos de pago.
 
-¡No dudes en contactarme! Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/luis-alberto-jaime-barbosa-6709ab239/) o [Twitter](https://twitter.com/MrLuisJaimes).
+- **Marketplace con Validación 3DS**  
+  Plataforma de comercio electrónico desarrollada con enfoque en la seguridad transaccional.  
+  Implementa servicios de autenticación 3DS para mitigar riesgos de fraude, garantizando una experiencia de compra segura y fluida tanto para usuarios como para administradores de la tienda.
 
-¡Gracias por visitar mi perfil! 😊
+---
 
-<!--
-**luisJaimeB/luisJaimeB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📬 Contacto
 
-Here are some ideas to get you started:
+Si deseas ponerte en contacto conmigo o saber más sobre mi trabajo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [📎 LinkedIn](https://www.linkedin.com/in/luis-alberto-jaime-barbosa-6709ab239/)
+- [🐦 Twitter](https://twitter.com/MrLuisJaimes)
+
+---
+
+Gracias por visitar mi perfil 🙌
