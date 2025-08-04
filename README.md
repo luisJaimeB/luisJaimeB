@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Luis Jaime
 
-Ingeniero de Sistemas con enfoque en desarrollo web e integración de sistemas. Actualmente me desempeño como **Analista de Integración** en [Evertec](https://www.evertecinc.com/), donde colaboro en soluciones tecnológicas que conectan plataformas de forma eficiente y segura.
+Ingeniero de Sistemas con enfoque en desarrollo web e integración de sistemas. Apasionado por construir soluciones tecnológicas que conecten plataformas de manera eficiente, segura y escalable. Me interesa especialmente el diseño limpio, las buenas prácticas de desarrollo y la mejora continua en entornos colaborativos.
 
 ---
 
@@ -42,7 +42,7 @@ Ingeniero de Sistemas con enfoque en desarrollo web e integración de sistemas. 
   Solución diseñada para facilitar la integración con múltiples pasarelas de pago, permitiendo a los usuarios conectarse sin necesidad de desarrollar integraciones personalizadas.  
   Se enfoca en ofrecer una interfaz limpia, procesos simplificados y una arquitectura extensible para adaptarse a distintas plataformas. Ideal para equipos que buscan rapidez y confiabilidad en su conexión con métodos de pago.
 
-- **Marketplace con Validación 3DS**  
+- **Marketplace**  
   Plataforma de comercio electrónico desarrollada con enfoque en la seguridad transaccional.  
   Implementa servicios de autenticación 3DS para mitigar riesgos de fraude, garantizando una experiencia de compra segura y fluida tanto para usuarios como para administradores de la tienda.
 
