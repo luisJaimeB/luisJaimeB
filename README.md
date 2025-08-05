@@ -48,13 +48,4 @@ Ingeniero de Sistemas con enfoque en desarrollo web e integración de sistemas. 
 
 ---
 
-## 📬 Contacto
-
-Si deseas ponerte en contacto conmigo o saber más sobre mi trabajo:
-
-- [📎 LinkedIn](https://www.linkedin.com/in/luis-alberto-jaime-6709ab239)
-- [🐦 Twitter](https://twitter.com/MrLuisJaimes)
-
----
-
 Gracias por visitar mi perfil 🙌
